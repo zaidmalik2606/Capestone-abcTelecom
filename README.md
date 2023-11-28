@@ -4,10 +4,10 @@ Developer
 Zaid Malik
 
 
-Github link:  ://github.com/zaidmalik2606/Capestone-abcTelecom.git
+Github link:  ://github.com/zaidmalik2606/Capestone-abcTelecom
 
 Overview
-ABC Telecom Ltd. is one of India’s major telecommunication service providers offering landline, mobile phone and Fiber optic broadband services across the country. Their customer services group is interested in providing a set of customer redressal services through the development of a new application using the state-of-art technologies such as Spring-boot for the development of java-based services, and UI using Angular and integrate them suitably, so that all the necessary services are taken care of through this application. They want to have an online complaint management system where the customers can raise complaints regarding their landlines and broadband services..
+ABC Telecom Ltd. is one of Indiaâ€™s major telecommunication service providers offering landline, mobile phone and Fiber optic broadband services across the country. Their customer services group is interested in providing a set of customer redressal services through the development of a new application using the state-of-art technologies such as Spring-boot for the development of java-based services, and UI using Angular and integrate them suitably, so that all the necessary services are taken care of through this application. They want to have an online complaint management system where the customers can raise complaints regarding their landlines and broadband services..
 
 Tools Used
 Eclipse: An IDE to code for the application
